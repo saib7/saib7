@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saib Ahmed</h1>
 <h3 align="center">Dedicated and Motivated AI Research Engineer.</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/gradient-coding-logo-template_23-2148809439.jpg?t=st=1742121609~exp=1742125209~hmac=82f050cf9ac8871fc0fea7af77938efd58c4ca8b94b5ee729237ac0e0638b955&w=740">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saib7&label=Profile%20views&color=0e75b6&style=flat" alt="saib7" /> </p>
 
